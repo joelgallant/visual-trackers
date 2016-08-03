@@ -1,0 +1,24 @@
+[submodule "trackers/CMT"]
+	path = trackers/CMT
+	url = https://github.com/gnebehay/CMT.git
+[submodule "trackers/OpenTLD"]
+	path = trackers/OpenTLD
+	url = https://github.com/gnebehay/OpenTLD.git
+[submodule "trackers/CppMT"]
+	path = trackers/CppMT
+	url = https://github.com/gnebehay/CppMT.git
+[submodule "trackers/legit"]
+	path = trackers/legit
+	url = https://github.com/vicoslab/legit.git
+[submodule "trackers/cf_tracking"]
+	path = trackers/cf_tracking
+	url = https://github.com/tracedev/cf_tracking.git
+[submodule "trackers/CFtld"]
+	path = trackers/CFtld
+	url = https://github.com/klahaag/CFtld.git
+[submodule "trackers/skcf"]
+	path = trackers/skcf
+	url = https://github.com/joelgallant/skcf.git
+[submodule "trackers/vivaTracker"]
+	path = trackers/vivaTracker
+	url = https://github.com/asolis/vivaTracker.git
